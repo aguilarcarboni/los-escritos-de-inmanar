@@ -1,2 +1,17 @@
-# los-escritos-de-inmanar
-Static HTML website that was developed as an Internal Assessment for an Information Technology in the Global Society class for IB. This was the first website I ever developed.
+# Project name 
+
+## Tagline / course name 
+
+### Description 
+
+### Documentation
+For detailed API documentation, please refer to the [documentation](./docs/README.md).
+
+### Roadmap
+- [x] Test
+
+### Results 
+
+### Contact
+
+### created by [@aguilarcarboni](https://github.com/aguilarcarboni/)

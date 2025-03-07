@@ -1,6 +1,6 @@
 'use client';
 
-import { motion, useScroll, useTransform, useMotionValue, useSpring, MotionValue } from "framer-motion";
+import { motion, useScroll, useTransform, } from "framer-motion";
 import Link from "next/link";
 import { useRef, useEffect } from "react";
 
@@ -28,11 +28,6 @@ const staggerContainer = {
     }
   }
 };
-
-interface ParallaxTextProps {
-  children: string;
-  baseVelocity?: number;
-}
 
 export default function Home() {
 

@@ -1,7 +1,18 @@
 import type { NextConfig } from "next";
 
 const nextConfig: NextConfig = {
-  /* config options here */
+  output: 'standalone',
+  reactStrictMode: false,
+  env: {
+    LF_API_URL: process.env.LF_API_URL,
+  },
+  images: {
+    remotePatterns: [
+      {
+        hostname: '**',
+      },
+    ],
+  },
 };
 
 export default nextConfig;

@@ -1,7 +1,6 @@
 import type { Metadata } from "next";
 import { Cinzel } from "next/font/google";
 import "./globals.css";
-import Link from 'next/link';
 
 const cinzel = Cinzel({
   subsets: ["latin"],
@@ -22,7 +21,7 @@ export default function RootLayout({
   return (
     <html lang="es">
       <body className={`${cinzel.variable} antialiased`}>
-        <div className="pt-16">
+        <div>
           {children}
         </div>
       </body>
