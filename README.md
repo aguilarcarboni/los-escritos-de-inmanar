@@ -9,16 +9,7 @@ The website serves as a digital platform hosting my spanish professor's content 
 
 This project holds special significance as it marks the beginning of my journey in web development, laying the foundation for my future projects and technical growth.
 
-### Documentation
-For detailed API documentation, please refer to the [documentation](./docs/README.md).
-
-### Roadmap
-- [x] Test
-
 ### Results 
 The project successfully fulfilled its requirements as an IB ITGS Internal Assessment, demonstrating fundamental web development concepts and practical implementation of static web technologies.
 
-### Contact
-Feel free to reach out for any questions or discussions about this project.
-
-### Created by [@aguilarcarboni](https://github.com/aguilarcarboni/)
+### created by [@aguilarcarboni](https://github.com/aguilarcarboni/)
